@@ -30,6 +30,7 @@ EXTENSIONS=(
     "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
     "https://github.com/fkunn1326/openpose-editor"
     "https://github.com/Gourieff/sd-webui-reactor"
+    "https://github.com/ArtVentureX/sd-webui-agent-scheduler.git"
 )
 
 CHECKPOINT_MODELS=(
